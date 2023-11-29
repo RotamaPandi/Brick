@@ -1,0 +1,11 @@
+Bug issue for Sign UP
+
+1. User still success registered when the phone number is empty, while its requirement status
+2. There is no min and max char for first name and the last name
+3. There is no combination char for password
+4. there is no max length for password itself
+5. Cannot check exist email
+
+Bug issue for Login
+1. There is no message error if the field is empty
+2. There is no checking for invalid usernames or password with separate behaviors
