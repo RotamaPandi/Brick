@@ -1,1 +1,1 @@
-This only for example scenario
+This only for basic scenario for sign up and sign in user.
