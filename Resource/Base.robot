@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation     Base Function
+Documentation     This Variables can help a tester to create edge scenario
 Library    SeleniumLibrary
 
 *** Variables ***
